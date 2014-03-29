@@ -2,33 +2,15 @@
 using System.Collections;
 
 public class Hammer : BaseItem {
-	public Texture2D icon;
-
-	// Use this for initialization
-
+	public Texture Icon;
+	public Sprite sprite;
 	void Start () {
-	
-		itemname = "Hammer";
-		desc =" A Hammer that fires Hammers";
+		base.setUp("Hammer","A HAMMER",Icon,sprite);
+
+
+
 		
-	
-
 
 	}
-	
-	// Update is called once per frame
-	void Update () {
 
-	
-	}
-	void OnTriggerEnter2D(Collider2D col)
-	{
-		if(col.name == "Player")
-		{
-
-			base.pickUp();
-
-
-		}
-	}
 }

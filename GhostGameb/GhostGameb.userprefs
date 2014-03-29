@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Prefabs\Items\Test Item-Roller\Hammer1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\BaseItem.cs">
     <Files>
-      <File FileName="Assets\Resources\Prefabs\Items\Test Item-Hammer\Hammer.cs" Line="30" Column="1" />
-      <File FileName="Assets\Resources\Prefabs\Items\Test Item-Roller\Hammer1.cs" Line="12" Column="44" />
+      <File FileName="Assets\Resources\Scripts\Inventory.cs" Line="49" Column="36" />
+      <File FileName="Assets\Resources\Scripts\BaseItem.cs" Line="15" Column="8" />
+      <File FileName="Assets\Resources\Prefabs\Items\Test Item-Hammer\Hammer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
