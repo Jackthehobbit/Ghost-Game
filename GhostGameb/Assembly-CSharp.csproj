@@ -46,7 +46,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Resources\Prefabs\Items\Test Item-Hammer\Hammer.cs" />
+     <Compile Include="Assets\Resources\Prefabs\Items\Test Item-Roller\Roller.cs" />
      <Compile Include="Assets\Resources\Scripts\Aim.cs" />
+     <Compile Include="Assets\Resources\Scripts\BaseItem.cs" />
      <Compile Include="Assets\Resources\Scripts\Bullet.cs" />
      <Compile Include="Assets\Resources\Scripts\Flip.cs" />
      <Compile Include="Assets\Resources\Scripts\PlayerAttack.cs" />
